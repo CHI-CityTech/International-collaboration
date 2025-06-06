@@ -31,7 +31,7 @@ Note: Some of these actions need to be done within the active Zoom session:  how
   * [Enabling Zoom AI Companion](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0077464)
   * Turning on AI Companion requires the host activate it manually within the Zoom Session.  
 * Create a [Zoom Collaborative Doc](https://www.zoom.com/en/products/collaborative-docs-b/) so participants can brainstorm ideas in a shared environment
-* 
+  * [Creating and using Zoom COllaborative docs](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0075023)  
 
 ### **Meeting Agenda (60 Minutes Total)**
 
