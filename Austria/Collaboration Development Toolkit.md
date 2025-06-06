@@ -1,6 +1,6 @@
 # **GENERAL AGENDA DEVELOPMENT TOOLKIT FOR COLLABORATIVE BRAINSTORMING SESSIONS**
 
-Created by David B Smith and CHatGPT 4o after an exploratory meeting of CIty Tech personnel who will attend.  
+Created by David B Smith and CHatGPT 4o. 2025-06-01  
 
 ## **Barebones Agenda Structure**
 
