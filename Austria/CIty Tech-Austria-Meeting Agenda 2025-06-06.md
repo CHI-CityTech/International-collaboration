@@ -2,7 +2,7 @@
 
 **Date:** June 6, 2025
 **Duration:** 1 Hour
-**Participants:** Deans and Associate Provost (City Tech); Representatives from AAECA, Austrian Ministry of Education, and related institutions
+**Participants:** Deans and Associate Provost (City Tech); Representatives from AAECA, Austrian Ministry of Education, and related institutions.  
 
 ---
 
