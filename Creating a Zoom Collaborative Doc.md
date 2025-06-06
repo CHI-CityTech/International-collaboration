@@ -1,5 +1,5 @@
 # 🧾 How to Create a Zoom Collaborative Doc (Host Guide)
-Docuemnt prepared and created by David B Smith and ChatGPT 4o
+Document prepared and created by David B Smith and ChatGPT 4o
 2025-06-04  
 
 ## ✅ Requirements
