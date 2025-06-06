@@ -20,13 +20,21 @@
 
 To initiate a high-level conversation between City Tech and Austrian educational and governmental partners, with the goal of generating a broad set of potential collaboration ideas. This session is exploratory and generative. All ideas are welcome. The output will form the basis of a follow-up planning process.
 
-### **Meeting Agenda (60 Minutes Total)**
-
 #### **0. Pre Meeting Zoom Setup**
 
-* Turn on AUdio recording to record transcript
+Note: Some of these actions need to be done within the active Zoom session:  however it is important to enable these features prior to teh meeting itself.  
+
+* Turn on Audio recording to record transcript
+  * [Enabling Cloud recording in Zoom](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0063923)
+  * [turning on Cloud Recording in a Session](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0062627)
 * Turn on Zoom AI Companion to record session and provide feedbakc and summaries
-* Create a [Zoom Collaborative Doc]((https://www.zoom.com/en/products/collaborative-docs-b/) so participants can 
+  * [Enabling Zoom AI Companion](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0077464)
+  * Turning on AI COmpanion requires the host activate it manually within the Zoom Session.  
+* Create a [Zoom Collaborative Doc](https://www.zoom.com/en/products/collaborative-docs-b/) so participants can brainstorm ideas in a shared environment
+* 
+
+### **Meeting Agenda (60 Minutes Total)**
+
 #### **1. Welcome & Introductions (10 min)**
 
 * Opening remarks by meeting facilitator (Dr. Reginald Blake)
