@@ -31,6 +31,11 @@ To initiate a high-level conversation between City Tech and Austrian educational
 
 ### **Meeting Agenda (60 Minutes Total)**
 
+#### **0. Pre Meeting Zoom Setup**
+
+* Turn on AUdio recording to record transcript
+* Turn on Zoom AI Companion to record session and provide feedbakc and summaries
+* Create a [Zoom Collaborative Doc]((https://www.zoom.com/en/products/collaborative-docs-b/) so participants can 
 #### **1. Welcome & Introductions (10 min)**
 
 * Opening remarks by meeting facilitator (Dr. Reginald Blake)
@@ -72,9 +77,8 @@ To initiate a high-level conversation between City Tech and Austrian educational
 #### **4. Quick Assessment of Brainstormed Ideas (10 min)**
 
 * Launch a simple **Zoom Poll** or in-doc voting tool
-
-  * Participants express preliminary interest in ideas (not commitments)
-  * Votes reflect curiosity, perceived feasibility, or alignment with strategic goals
+  - Participants express preliminary interest in ideas (not commitments)
+  - Votes reflect curiosity, perceived feasibility, or alignment with strategic goals
 
 #### **5. Closing & Next Steps (5 min)**
 
