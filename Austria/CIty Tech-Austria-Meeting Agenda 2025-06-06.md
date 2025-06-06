@@ -29,7 +29,7 @@ Note: Some of these actions need to be done within the active Zoom session:  how
   * [turning on Cloud Recording in a Session](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0062627)
 * Turn on Zoom AI Companion to record session and provide feedbakc and summaries
   * [Enabling Zoom AI Companion](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0077464)
-  * Turning on AI COmpanion requires the host activate it manually within the Zoom Session.  
+  * Turning on AI Companion requires the host activate it manually within the Zoom Session.  
 * Create a [Zoom Collaborative Doc](https://www.zoom.com/en/products/collaborative-docs-b/) so participants can brainstorm ideas in a shared environment
 * 
 
