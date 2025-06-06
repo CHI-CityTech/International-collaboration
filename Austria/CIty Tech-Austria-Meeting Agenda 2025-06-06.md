@@ -4,8 +4,6 @@
 **Duration:** 1 Hour
 **Participants:** Deans and Associate Provost (City Tech); Representatives from AAECA, Austrian Ministry of Education, and related institutions.  
 
----
-
 ### **City Tech Representatives**
 
 * **Dr. Reginald Blake, PhD** – Associate Provost, City Tech
@@ -18,16 +16,9 @@
 
 \* Indicates City Tech members who also serve on the AAECA.
 
-
-
-
----
-
 ### **Meeting Purpose**
 
 To initiate a high-level conversation between City Tech and Austrian educational and governmental partners, with the goal of generating a broad set of potential collaboration ideas. This session is exploratory and generative. All ideas are welcome. The output will form the basis of a follow-up planning process.
-
----
 
 ### **Meeting Agenda (60 Minutes Total)**
 
@@ -86,7 +77,6 @@ To initiate a high-level conversation between City Tech and Austrian educational
 * Explain that all materials (whiteboard/doc, transcript, summary, poll results) will be compiled and shared
 * Next meeting: A focused working group will analyze and cluster ideas for actionable follow-up
 
----
 
 ### **Post-Meeting Deliverables**
 
@@ -96,7 +86,6 @@ To initiate a high-level conversation between City Tech and Austrian educational
 * Results from Interest Poll
 * Shared summary document for review and prioritization
 
----
 
 ### **Framing Note to Participants (Optional)**
 
